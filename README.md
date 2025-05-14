@@ -45,25 +45,6 @@ Each project includes:
 - Error analysis and insights
 - Summary of learnings
 
----
-
-## 🚀 Projects In Progress
-
-> ✅ = done · 🛠 = in progress · 🔜 = planned
-
-- [x] Linear Regression: California Housing Prices
-- [x] Logistic Regression: Breast Cancer Classification
-- [ ] KNN: Handwritten Digit Classifier
-- [ ] Decision Tree: Loan Approval
-- [ ] Clustering: Customer Segmentation
-
----
-
-## 📘 References
-
-- *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* – Aurélien Géron  
-- scikit-learn documentation  
-- kaggle.com datasets and notebooks
 
 ---
 
